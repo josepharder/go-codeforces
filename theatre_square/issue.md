@@ -11,3 +11,13 @@ The input contains three positive integer numbers in the first line: `n`, `m`, a
 ## Output
 
 Write the needed number of flagstones.
+
+## Example
+
+### Input
+
+6 6 4
+
+### Output
+
+4

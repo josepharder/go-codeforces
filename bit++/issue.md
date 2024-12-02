@@ -25,3 +25,15 @@ Next `n` lines contain a statement each. Each statement contains exactly one ope
 ## Output
 
 Print a single integer — the final value of `x`.
+
+## Example
+
+### Input
+
+2
+X++
+--X
+
+### Output
+
+0
