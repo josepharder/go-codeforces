@@ -31,7 +31,9 @@ Print a single integer — the final value of `x`.
 ### Input
 
 2
+
 X++
+
 --X
 
 ### Output
