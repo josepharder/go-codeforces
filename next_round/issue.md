@@ -21,8 +21,14 @@ Output the number of participants who advance to the next round.
 
 ### Input
 
-8 5 10 9 8 7 7 7 5 5
+8 5
+
+10 9 8 7 7 7 5 5
 
 ### Output
 
 6
+
+### Note
+
+In the first example the participant on the 5th place earned 7 points. As the participant on the 6th place also earned 7 points, there are 6 advancers.
