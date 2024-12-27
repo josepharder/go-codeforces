@@ -16,3 +16,13 @@ A single line with two integers `M` and `N` (1 ≤ M ≤ N ≤ 16).
 
 ## Output
 A single integer — the maximal number of dominoes that can be placed.
+
+## Example
+
+### Input
+
+2 4
+
+### Output
+
+4
